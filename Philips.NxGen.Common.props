@@ -2,7 +2,7 @@
 <Project>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
-    <AssemblyOriginatorKeyFile>build\di_key.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>.\di_key.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Update="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" Version="3.6.0"/>
