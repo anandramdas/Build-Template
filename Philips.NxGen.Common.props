@@ -20,7 +20,7 @@
     <PackageReference Update="NUnit.Extension.TeamCityEventListener" Version="1.0.3" />
     <PackageReference Update="NUnit.Extension.VSProjectLoader" Version="3.7.0" />
     <PackageReference Update="NUnit3TestAdapter" Version="3.10.0" />
-    <PackageReference Update="platformDlls" Version="2120.0.0-MLD" />
+    <PackageReference Update="platformDlls" Version="2122.0.0-MLD" />
     <PackageReference Update="Prism.Core" Version="6.3.0" />
     <PackageReference Update="Prism.Unity" Version="6.3.0" />
     <PackageReference Update="Prism.Wpf" Version="6.3.0" />
