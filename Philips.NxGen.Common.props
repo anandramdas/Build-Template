@@ -8,7 +8,6 @@
     <PackageReference Update="FluentAssertions" Version="5.10.3" />
     <PackageReference Update="LargeAddressAware" Version="1.0.5" />
     <PackageReference Update="Microsoft.CodeDom.Providers.DotNetCompilerPlatform" Version="3.6.0" />
-    <PackageReference Update="MRLogging" Version="20190111.0.0" />
     <PackageReference Update="NetMQ" Version="4.0.0.207" />
     <PackageReference Update="Newtonsoft.Json" Version="12.0.1" />
     <PackageReference Update="NUnit" Version="3.10.1" />
